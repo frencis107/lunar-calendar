@@ -3,9 +3,9 @@ PRODID:-//Chen Wei//Chinese Lunar Calendar//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:农历
+X-WR-CALNAME:二十四节气
 X-WR-TIMEZONE:Asia/Shanghai
-X-WR-CALDESC:中国农历1901-2100, 包括节气. 数据来自香港天文台
+X-WR-CALDESC:中国二十四节气2000-2100. 数据来自香港天文台
 BEGIN:VEVENT
 DTSTAMP:20180810T073115Z
 UID:2000-01-06-lc@infinet.github.io
